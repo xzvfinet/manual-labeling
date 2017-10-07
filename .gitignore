@@ -67,3 +67,4 @@
 *.max
 
 # End of https://www.gitignore.io/api/images
+*.sublime-project
